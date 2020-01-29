@@ -47,6 +47,6 @@ This is because this program uses the original question order and answer order, 
  + please open an issue
  
 ## Contributors
-
+* [![Run on Repl.it](https://repl.it/badge/github/lxmb/kbot)](https://repl.it/github/lxmb/kbot)
 * [reteps](https://github.com/reteps) - Main programming
 * [idiidk](https://github.com/idiidk) - For the challenge decoding
